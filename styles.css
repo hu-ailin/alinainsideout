@@ -6,11 +6,11 @@
 }
 
 body {
-    padding-top: 80px; /* Add padding to prevent content from being hidden under fixed navbar */
-    background-color: #F8E8EE;
+    padding-top: 80px; 
+    background-color: #fef8fc;
     margin: 10px;
     font-family: "Poppins", serif;
-    line-height: 1.8; /* Increased line height for more spacing between lines */
+    line-height: 1.8; 
 }
 
 /* Logo */
@@ -79,20 +79,18 @@ section {
 
 /* About Section */
 .about-container {
-    width: 700px;  /* Increase max-width for more space */
+    width: 700px;  
     border-bottom: 2px solid #000;
-    margin: 0 auto;    /* Centers the container horizontally */
-    text-align: center;  /* Centers the text inside the container */
+    margin: 0 auto;
+    text-align: center;
     font-size: 24px;
-    padding: 20px;  /* Adds padding for spacing */
-    font-family: 'Parisienne', cursive; /* Set the font to Cookie */
-    font-size: 28px; /* You can adjust the font size */
-    line-height: 1.5; /* Adjust line spacing for readability */
+    padding: 20px;
+    font-family: 'Parisienne', cursive;
+    font-size: 28px;
+    line-height: 1.5;
     }
 
 
-
-/* Update the .me-container and .me image */
 .me-container {
     text-align: center; /* Center align the content */
     margin-top: 20px; /* Adjust top margin for spacing */
@@ -241,8 +239,8 @@ article {
 }
 
 .project-item a:hover {
-    color: #F8E8EE;
-    border-color: #F8E8EE;
+    color: #fef8fc;
+    border-color: #fef8fc;
 }
 
 
